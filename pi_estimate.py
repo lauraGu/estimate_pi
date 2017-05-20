@@ -8,7 +8,7 @@ def estimatePi(n,m):
     insideC = 0  # punkty w kole
 	
     listQ = []
-    #listC = {}
+    listC = []
     axis([0, m, 0, m])
     while insideQ < n:
         x = random.randrange(m)
