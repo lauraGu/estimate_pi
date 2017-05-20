@@ -1,7 +1,7 @@
 from pylab import *
 import matplotlib.patches as mpatches
 import random
-
+#comment
 
 def estimatePi(n,m):
     insideQ = 0  # punkty w kwadracie
